@@ -1,0 +1,15 @@
+D:\hoseini\Me\DaneshKar\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\hoseini\Me\DaneshKar\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\hoseini\Me\DaneshKar\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\hoseini\Me\DaneshKar\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\hoseini\Me\DaneshKar\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\hoseini\Me\DaneshKar\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\hoseini\Me\DaneshKar\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoseini\Me\DaneshKar\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\hoseini\Me\DaneshKar\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\hoseini\Me\DaneshKar\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\hoseini\Me\DaneshKar\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\hoseini\Me\DaneshKar\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\hoseini\Me\DaneshKar\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\hoseini\Me\DaneshKar\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\hoseini\Me\DaneshKar\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll

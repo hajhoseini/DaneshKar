@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SpdyJ7dS5BaxXwQzD+OBfJmiGHZtCLcNro9U6W0hdMb57Vk7CdICG3ntDNPOub9Y72JJX9U7bTm8hAKGn8MECQ==",
+  "success": true,
+  "projectFilePath": "D:\\hoseini\\Me\\DaneshKar\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.0.37:8081/repository/nuget_proxy_v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
